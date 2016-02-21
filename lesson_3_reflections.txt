@@ -1,0 +1,3 @@
+When would you rather create a remote repository rather than keeping all your work local?
+
+    If you work from many locations, remote repositories become super handy.
