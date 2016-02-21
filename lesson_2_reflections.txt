@@ -11,6 +11,9 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    You can add only the files with the changes necessary to complete the logical
+  change to the staging area, review them for cohesion, and THEN commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
